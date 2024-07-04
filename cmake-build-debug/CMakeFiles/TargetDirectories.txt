@@ -1,0 +1,3 @@
+C:/Users/Lukas/CLionProjects/Assignment_C_CDP/cmake-build-debug/CMakeFiles/Assignment_C_CDP.dir
+C:/Users/Lukas/CLionProjects/Assignment_C_CDP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lukas/CLionProjects/Assignment_C_CDP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
